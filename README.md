@@ -24,11 +24,11 @@
 ### Passo 1:
 
 Crie uma pasta em um local de sua preferência: 
-Clone os dois repositórios que fazem parte deste trabalho
+Descompacte os repositórios que fazem parte deste trabalho
 
 ```bash
-git clone https://github.com/Janaerc/tccFrontMobile.git
-git clone https://github.com/NicolleCosta/ManutencaoUFPR-WS-Rest.git
+tccFrontMobile.zip
+ManutencaoUFPR-WS-Rest.zip
 ```
 
 ### Passo 2:
