@@ -70,4 +70,4 @@ Se você acessar a aplicação web com os dados do administrador, seu chamado es
 
 
 
-<h5> Atenção este projeto foi desenvolvido para </h5> [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
